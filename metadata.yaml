@@ -1,0 +1,30 @@
+_repo: Die-doppelk-pfige-NympheAufs-tze--ber-die-Literatur-und-die-Gegenwart_35826
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Edschmid, Kasimir
+    birthdate: 1890
+    deathdate: 1966
+    gutenberg_agent_id: '34714'
+    url: http://www.gutenberg.org/2009/agents/34714
+    wikipedia: http://de.wikipedia.org/wiki/Kasimir_Edschmid
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2011-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35826'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German literature -- 20th century -- History and criticism'
+title: 'Die doppelköpfige Nymphe
+
+  Aufsätze über die Literatur und die Gegenwart'
+url: http://www.gutenberg.org/ebooks/35826
