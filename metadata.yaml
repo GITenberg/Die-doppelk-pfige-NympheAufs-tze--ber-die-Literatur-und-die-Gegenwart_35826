@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34714
     wikipedia: http://de.wikipedia.org/wiki/Kasimir_Edschmid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35826#Die-doppelk-pfige-NympheAufs-tze--ber-die-Literatur-und-die-Gegenwart
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2011-04-11'
 gutenberg_type: Text
